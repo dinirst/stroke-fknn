@@ -1,4 +1,4 @@
-<h2> Deteksi Dini Stroke Berdasarkan Gaya Hidup Menggunakan Fuzzy KNN dan Algoritma Genetika  </h2>
+<h2> Deteksi Dini Stroke Berdasarkan Gaya Hidup Menggunakan Fuzzy KNN </h2>
 
 
 <p>
